@@ -1,1 +1,1 @@
-FROM docker.io/karmada/karmada-scheduler-estimator:v1.5.0
+FROM docker.io/karmada/karmada-scheduler-estimator:v1.6.0
